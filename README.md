@@ -19,3 +19,4 @@ A Small Promise to Myself
 I will try to show up every day, ask questions when I need help, learn from my professors, and not skip the concepts I find difficult.
 I don't want to just collect solved questions. I want to actually understand them.
 One question at a time. One day at a time. 🌱
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a9f3bdb3-4bce-4dff-8e0c-c13a03e38567" />
