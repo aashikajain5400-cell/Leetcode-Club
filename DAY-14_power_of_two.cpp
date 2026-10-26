@@ -28,7 +28,10 @@ An integer `n` is a power of two, if there exists an integer `x` such that `n ==
  *
 */
 
+
 #include <iostream>
+using namespace std;
+
 class Solution {
 public:
     bool isPowerOfTwo(int n) {
@@ -43,10 +46,18 @@ public:
         return n == 1;
     }
 };
+
 int main() {
-    Solution solution;
-    int n = 16; // Example input
-    bool result = solution.isPowerOfTwo(n);
-    std::cout << std::boolalpha << result << std::endl; // Output: true
+    int n;
+    cin >> n;
+
+    Solution obj;
+
+    if (obj.isPowerOfTwo(n)) {
+        cout << "true";
+    } else {
+        cout << "false";
+    }
+
     return 0;
 }
