@@ -1,5 +1,5 @@
 /*
- * DATE: 20/11/2026
+ * DATE: 09/11/2026
  *
  * PROBLEM LINK: https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful
  * PROBLEM STATEMENT:You are given a 0-indexed binary string s having an even length.
